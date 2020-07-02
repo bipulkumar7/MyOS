@@ -1,0 +1,12 @@
+L BINARY.;1                         	binary	binary-i386
+D BINARY-A                          	binary-all
+D BINARY-I                          	binary-i386
+F CHANGELO.;1                       	ChangeLog
+L CONTENTS.;1                       	Contents	Contents-i386
+F CONTENTS.000;1                    	Contents-i386
+F CONTENTS.001;1                    	Contents-i386.gz
+L CONTENTS.GZ;1                     	Contents.gz	Contents-i386.gz
+D DISKS-I3                          	disks-i386
+D MSDOS-I3                          	msdos-i386
+L PACKAGES.;1                       	Packages	binary/Packages
+F README.TXT;1                      	README.txt

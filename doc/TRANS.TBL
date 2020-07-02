@@ -1,0 +1,14 @@
+F 00-INDEX.;1                       	00-INDEX
+F BUG-LOG-.000;1                    	bug-log-mailserver.txt
+F BUG-LOG-.TXT;1                    	bug-log-access.txt
+F BUG-MAIL.TXT;1                    	bug-mailserver-refcard.txt
+F BUG-MAIN.000;1                    	bug-maint-info.txt
+F BUG-MAIN.TXT;1                    	bug-maint-mailcontrol.txt
+F BUG-REPO.TXT;1                    	bug-reporting.txt
+L DEBIAN-F.TXT;1                    	debian-faq.txt	FAQ/debian-faq.txt
+F DEBIAN-K.GZ;1                     	debian-keyring.tar.gz
+F DEBIAN_M.;1                       	debian_manifesto
+D FAQ                               	FAQ
+F MAILING-.TXT;1                    	mailing-lists.txt
+D PACKAGE-                          	package-developer
+F SOURCE-U.TXT;1                    	source-unpack.txt

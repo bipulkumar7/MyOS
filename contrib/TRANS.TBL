@@ -1,0 +1,9 @@
+D BINARY                            	binary
+D BINARY-A                          	binary-all
+L BINARY-I.;1                       	binary-i386	binary
+D MS-DOS                            	ms-dos
+L MSDOS-I3.;1                       	msdos-i386	ms-dos
+L PACKAGES.;1                       	Packages	binary/Packages
+F README.;1                         	README
+L README.SOURC;1                    	README.source-unpack	../doc/source-unpack.txt
+L _MESSAGE.;1                       	.message	README
